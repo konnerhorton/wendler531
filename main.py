@@ -1,5 +1,6 @@
 from wendler531 import one_rep_max
 from wendler531.units import Quantity
+from wendler531.cycle import Cycle
 import numpy as np
 def main():
     print("Hello from wendler531!")
